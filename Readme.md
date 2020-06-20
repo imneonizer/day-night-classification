@@ -1,4 +1,4 @@
-## Binary Image classification
+## Day-Night Classification
 
 Train a model to classify Day / Night images using keras.
 
