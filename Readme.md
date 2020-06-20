@@ -4,6 +4,11 @@ Train a model to classify Day / Night images using keras.
 
 Read full article here https://medium.com/@mneonizer/day-night-classification-a01a7d9af695
 
+**Requirements**
+````
+pip install -r Requirements.txt
+````
+
 **Training**
 
 ````
