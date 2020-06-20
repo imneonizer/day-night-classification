@@ -41,3 +41,5 @@ python test_model.py --model model/day_night.hd5 --image test/d1.jpg
 ````
 
 ![](Docs/r2.jpg)
+
+> Reference: https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
